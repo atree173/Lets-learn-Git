@@ -4,7 +4,7 @@ public class sum
     {
         int a=2;
         int b=6;
-        int div=a/b;
-        System.out.print("The div is="+div);
+        int mod=a%b;
+        System.out.print("The mod is="+mod);
     }
 }
