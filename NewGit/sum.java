@@ -4,8 +4,8 @@ public class sum
     {
         int a=2;
         int b=6;
-        int prod=a*b;
-        System.out.print("The prod is="+prod);
+        int sub=a-b;
+        System.out.print("The sub is="+sub);
         System.out.print)"This is edit");
     }
 }
