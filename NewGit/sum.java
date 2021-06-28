@@ -6,5 +6,6 @@ public class sum
         int b=6;
         int prod=a*b;
         System.out.print("The prod is="+prod);
+        System.out.print)"This is edit");
     }
 }
