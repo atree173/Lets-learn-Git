@@ -4,8 +4,8 @@ public class sum
     {
         int a=2;
         int b=6;
-        int mm=a*b;
-        System.out.print("The mm is="+mm);
+        int dd=a/b;
+        System.out.print("The mm is="+dd);
         System.out.print)"This is edit");
     }
 }
